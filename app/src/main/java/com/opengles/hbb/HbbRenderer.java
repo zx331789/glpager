@@ -221,7 +221,7 @@ public class HbbRenderer implements GLSurfaceView.Renderer {
 				GLES20.GL_UNSIGNED_SHORT, this.plane.getIndices());
 
 		GLES20.glDisableVertexAttribArray(positionLoc);
-		GLES20.glDisableVertexAttribArray(texCoordLoc);
+		GLES20.glDisableVertexAttribArray(texCoordLoc); //
 
 	}
  
