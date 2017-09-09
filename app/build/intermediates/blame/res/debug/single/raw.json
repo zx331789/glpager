@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "D:\\xq\\opengles\\glpager\\app\\build\\intermediates\\res\\merged\\debug\\raw\\basemap.jpg",
+        "source": "D:\\xq\\opengles\\glpager\\app\\src\\main\\res\\raw\\basemap.jpg"
+    },
+    {
+        "merged": "D:\\xq\\opengles\\glpager\\app\\build\\intermediates\\res\\merged\\debug\\raw\\lightmap.png",
+        "source": "D:\\xq\\opengles\\glpager\\app\\src\\main\\res\\raw\\lightmap.png"
+    },
+    {
+        "merged": "D:\\xq\\opengles\\glpager\\app\\build\\intermediates\\res\\merged\\debug\\raw\\bars_wave_fragment_shader.glsl",
+        "source": "D:\\xq\\opengles\\glpager\\app\\src\\main\\res\\raw\\bars_wave_fragment_shader.glsl"
+    },
+    {
+        "merged": "D:\\xq\\opengles\\glpager\\app\\build\\intermediates\\res\\merged\\debug\\raw\\basemap1.jpg",
+        "source": "D:\\xq\\opengles\\glpager\\app\\src\\main\\res\\raw\\basemap1.jpg"
+    },
+    {
+        "merged": "D:\\xq\\opengles\\glpager\\app\\build\\intermediates\\res\\merged\\debug\\raw\\bars_wave_vertex_shader.glsl",
+        "source": "D:\\xq\\opengles\\glpager\\app\\src\\main\\res\\raw\\bars_wave_vertex_shader.glsl"
+    }
+]

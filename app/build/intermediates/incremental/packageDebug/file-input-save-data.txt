@@ -1,0 +1,36 @@
+#Internal package file, do not edit.
+#Sat Sep 09 16:03:07 CST 2017
+2.base=D\:\\xq\\opengles\\glpager\\app\\build\\intermediates\\res\\resources-debug.ap_
+5.file=D\:\\xq\\opengles\\glpager\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\main.xml
+5.set=ANDROID_RESOURCE
+3.base=D\:\\xq\\opengles\\glpager\\app\\build\\intermediates\\res\\resources-debug.ap_
+6.file=D\:\\xq\\opengles\\glpager\\app\\build\\intermediates\\res\\resources-debug.ap_\\AndroidManifest.xml
+2.set=ANDROID_RESOURCE
+10.set=DEX
+10.file=D\:\\xq\\opengles\\glpager\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main\\classes.dex
+4.base=D\:\\xq\\opengles\\glpager\\app\\build\\intermediates\\res\\resources-debug.ap_
+7.file=D\:\\xq\\opengles\\glpager\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\raw\\bars_wave_fragment_shader.glsl
+7.set=ANDROID_RESOURCE
+count=11
+0.file=D\:\\xq\\opengles\\glpager\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\raw\\basemap.jpg
+5.base=D\:\\xq\\opengles\\glpager\\app\\build\\intermediates\\res\\resources-debug.ap_
+8.file=D\:\\xq\\opengles\\glpager\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\raw\\bars_wave_vertex_shader.glsl
+4.set=ANDROID_RESOURCE
+6.base=D\:\\xq\\opengles\\glpager\\app\\build\\intermediates\\res\\resources-debug.ap_
+1.file=D\:\\xq\\opengles\\glpager\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\raw\\lightmap.png
+9.set=ANDROID_RESOURCE
+9.file=D\:\\xq\\opengles\\glpager\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\activity_main.xml
+10.base=D\:\\xq\\opengles\\glpager\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main
+1.set=ANDROID_RESOURCE
+7.base=D\:\\xq\\opengles\\glpager\\app\\build\\intermediates\\res\\resources-debug.ap_
+2.file=D\:\\xq\\opengles\\glpager\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-hdpi-v4\\icon.png
+6.set=ANDROID_RESOURCE
+0.base=D\:\\xq\\opengles\\glpager\\app\\build\\intermediates\\res\\resources-debug.ap_
+8.base=D\:\\xq\\opengles\\glpager\\app\\build\\intermediates\\res\\resources-debug.ap_
+3.file=D\:\\xq\\opengles\\glpager\\app\\build\\intermediates\\res\\resources-debug.ap_\\resources.arsc
+3.set=ANDROID_RESOURCE
+1.base=D\:\\xq\\opengles\\glpager\\app\\build\\intermediates\\res\\resources-debug.ap_
+9.base=D\:\\xq\\opengles\\glpager\\app\\build\\intermediates\\res\\resources-debug.ap_
+4.file=D\:\\xq\\opengles\\glpager\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\raw\\basemap1.jpg
+8.set=ANDROID_RESOURCE
+0.set=ANDROID_RESOURCE
